@@ -14,7 +14,7 @@
 - [Conclusion](#conclusion)
 
 ### Dataset Description(Overview)
-An international MTN company in Nigeria specializing in tele communication service is on a quest to extract pivotal insights from their customer database. Their approach involves the application of a Data Analyst to scrutinize and understand their diverse customer base, in efforts to enhance their operations and sales strategies.
+An international MTN company in Nigeria that specialize in tele communication service is on a quest to extract pivotal insights from their customer database. Their approach involves the application of a Data Analyst to scrutinize and understand their diverse customer base, in efforts to enhance their operations and sales strategies.
 
 ### Content
  The dataset comprises 974,500 rows, observations across 17 variables, each illuminating different facets of the company's operations and customer interactions:
