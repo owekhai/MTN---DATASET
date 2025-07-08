@@ -19,23 +19,23 @@ An international MTN company in Nigeria specializing in tele communication servi
 ### Content
  The dataset comprises 19,500 observations across 17 variables, each illuminating different facets of the company's operations and customer interactions:
 
-- Customer ID: Customer identification number.
-- Full Name: The Costumers Names
-- Date of Purchase: Periodical Time Track Record
-- Age: Costomers Age diffrience.
-- State: The State records of each costumer.
-- MTN Device: MTN Product for sales.
-- Gender: Customer gender, categorized as Male and Female.
-- Satisfaction Rate: Customers sactisfaction rate.
-- Customer Review: categorized as "poor,fair, good, excellent and very good"
-- Customer Tenure in months.
-- Subscription Plan: The product unit and diffrient packages of the company.
-- Unit Price: The unit price.
-- Number of Times Purchased: The count record of each sales.
-- Total Revenue: Total amount of sales
-- Data Usage: Data unit comsumtion by customers
-- Customer Churn Status: The column contains the Active customers and Inactive Customers
-- Goal: To assertain the reason why customers are having low ratings, why some are inactive and others customers are leaving for rivals.
+- **Customer ID**: Customer identification number.
+- **Full Name**: The Costumers Names
+- **Date of Purchase:** Periodical Time Track Record
+- **Age**: Costomers Age diffrience.
+- **State**: The State records of each costumer.
+- **MTN Device**: MTN Product for sales.
+- **Gender**: Customer gender, categorized as Male and Female.
+- **Satisfaction Rate**: Customers sactisfaction rate.
+- **Customer Review**: categorized as "poor,fair, good, excellent and very good"
+- **Customer Tenure in months**.
+- **Subscription Plan**: The product unit and diffrient packages of the company.
+- **Unit Price**: The unit price.
+- **Number of Times Purchased**: The count record of each sales.
+- **Total Revenue**: Total amount of sales
+- **Data Usage**: Data unit comsumtion by customers
+- **Customer Churn Status**: The column contains the Active customers and Inactive Customers
+- **Goal**: To assertain the reason why customers are having low ratings, why some are inactive and others customers are leaving for rivals.
 
 ### Data Sources
 
