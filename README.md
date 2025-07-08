@@ -28,14 +28,13 @@ An international MTN company in Nigeria specializing in tele communication servi
 - **Gender**: Customer gender, categorized as Male and Female.
 - **Satisfaction Rate**: Customers sactisfaction rate.
 - **Customer Review**: categorized as "poor,fair, good, excellent and very good"
-- **Customer Tenure in months**.
+- **Customer Tenure in months**:
 - **Subscription Plan**: The product unit and diffrient packages of the company.
 - **Unit Price**: The unit price.
 - **Number of Times Purchased**: The count record of each sales.
 - **Total Revenue**: Total amount of sales
 - **Data Usage**: Data unit comsumtion by customers
-- **Customer Churn Status**: The column contains the Active customers and Inactive Customers
-- **Goal**: To assertain the reason why customers are having low ratings, why some are inactive and others customers are leaving for rivals.
+- **Customer Churn Status**: The column contains the Active customers and Inactive Customers.
 
 ### Data Sources
 
