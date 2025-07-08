@@ -78,9 +78,9 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten fro
 * Product like 5G have a low count on sales but generate more revenue compare to sim.
 
 ### Recommendations
-1. **Focus more on Osun**: The Osun state is the dominant mode and the results don't indicate a huge difference in the total revenue, There shoud be a proper investigation on the network provider in Osun perhaps a lower pakage for average customers in that region.
+1. **Focus more on Osun**: The Osun state is the dominant mode and the results don't indicate a huge difference in the total revenue, There shoud be a proper investigation on the network provider in Osun perhaps a lower pakage for average customers should be consider.
 
-2. **Investigate low customer ratings:** Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent, Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
+2. **Investigate low customer ratings:** Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent in "Customer Review", Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
 
 3. **Product Importance Segmentation**:  Analyze the factors influencing "high importance" product classifications more closely.  If this category corresponds to 5G and 5G Broadband Router products, they may be experiencing a different set of challenges that warrant further investigation.
 
