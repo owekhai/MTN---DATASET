@@ -85,7 +85,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten fro
 3. **Product Importance Segmentation**:  Analyze the factors influencing "high importance" product classifications more closely.  If this category corresponds to 5G and 5G Broadband Router products, they may be experiencing a different set of challenges that warrant further investigation.
 
 4. **Discount Optimization**: Understand the relationship between discounts and customer ratings. Test the impact of different discount strategies, potentially optimizing for higher ratings rather than just sales.
-5. **Discount on 5G Router and Subscription**: There should be a distcount price on this set product in other to drive customers attention on them and increase the company's revenue.
+5. **Discount on 5G Router and Subscription**: There should be discount price on this set product in other to drive customers attention on them and increase the company's revenue.
 
 ### Limitations
 1. **Lack of detailed customer feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
