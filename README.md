@@ -28,7 +28,7 @@ An international MTN company in Nigeria specializing in tele communication servi
 - **Gender**: Customer gender, categorized as Male and Female.
 - **Satisfaction Rate**: Customers sactisfaction rate.
 - **Customer Review**: categorized as "poor,fair, good, excellent and very good"
-- **Customer Tenure in months**:
+- **Customer Tenure in months**: The time count record of each sales.
 - **Subscription Plan**: The product unit and diffrient packages of the company.
 - **Unit Price**: The unit price.
 - **Number of Times Purchased**: The count record of each sales.
