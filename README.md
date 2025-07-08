@@ -69,11 +69,14 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten fro
  
 ### Findings
 * The total revenue from January to March is N199,348,200
+* Females are the genger with more patronage with 50% compare to the males with 42.2%.
+* Out of 974 customers 690 where Active, while 284 stop patronizing the company, the top 5 reason for chum is “High Call Tarriffs” (54), “Better Offers from Competitors”(52), “Poor Network”(45), “Costly Data Plans”(40) and “Poor Customer Service”(34).
+* “Ejiro Griffith” from Bauchi with a Broadband MiFi and other top rank customers  left the company  due to poor network
+* “Tega Turner” from rivers is among the top 5 customers with a unit price of N150,000 he is currently active but has a poor data usage
 * The month with more declined customers is Febuary.
-* The month with the lowest number of customers is march.
+* The month with the lowest number of customers is March.
 * The state with more customer is osun with 43% rgistered customers next to Abj with 42%.
-* Females are the genger with more patronage with 50% compare to the males with 42.2%. 
-* Product like 5G seems to have a low count on sales yet generate more revenue compare to sim.
+* Product like 5G have a low count on sales but generate more revenue compare to sim.
 
 ### Recommendations
 1. **Focus more on Osun**: The Osun state is the dominant mode and the results don't indicate a huge difference in the total revenue, There shoud be a proper investigation on the network provider in Osun perhaps a lower pakage for average customers in that region.
