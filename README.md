@@ -54,11 +54,11 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten fro
 ### Inference Analysis
   The analysis uses several techniques:
 * 1. Clustered Column Chart: Analys the state with more customers.
-* 2. Doughnut Chart: Analyzes the gender with more sales.
+* 2. Doughnut Chart: Analyzes the gender with more revenue.
 * 3. Clustered Column Chart: Examines the customers rating and review.
 * 4. Pie of Pie: Analyzes the customers for all state.
 * 5. 3-D culomn Chart: Examines the sub with more patronage and more decline base on location.
-* 6. 3-D clustered culomn: Analys the device with the highest revenue base on relocation.
+* 6. 3-D clustered culomn: Analys the device with the highest revenue base on location.
 * 7. 3-D Stacked culomn: Shows the status of customer in each location.
 * 8. 3-D Stacked culomn: Shows the location with the highest reveneu.
 * 9. 3-D Stacked culomn: Analyzes the state with more revenue.
