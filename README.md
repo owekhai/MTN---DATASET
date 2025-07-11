@@ -83,7 +83,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten fro
 ### Recommendations
 1. **Focus more on State with Poor Network issues**: There shoud be a proper investigation on the network provider in the above state with poor networt issues in order to generate more revenue.
 
-2. **Focus also on Osun**: The Osun state is the dominant mode and the results don't indicate a huge difference in the total revenue, There shoud be a proper investigation on the network provider in Osun perhaps a lower pakage for average customers should be consider.
+2. **Lower package subscription concideration**: State like Osun which is the dominant mode in customers, the results don't indicate a huge difference in the total revenue, There shoud be a lower package for average customers in the company in other to speed up the total revenue.
 
 3. **Investigate low customer ratings:** Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent in "Customer Review", Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
 
