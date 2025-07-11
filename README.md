@@ -76,16 +76,21 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten fro
 * The month with the lowest number of customers is March.
 * The state with more customer is osun with 43% rgistered customers next to Abj with 42%.
 * Product like 5G have a low count on sales but generate more revenue compare to sim.
+* The States with "Poor Customers Review" are “Akwa Ibom, Benue, Imo, Ekiti, Gombe, Enugu, Kongi, Nasarawa, Niger, Taraba and Sokoto”.
+* The State with "Poor Network" are “Bauchi, Bauchi”.
+
 
 ### Recommendations
-1. **Focus more on Osun**: The Osun state is the dominant mode and the results don't indicate a huge difference in the total revenue, There shoud be a proper investigation on the network provider in Osun perhaps a lower pakage for average customers should be consider.
+1. **Focus more on State with Poor Network issues**: The state with is the dominant mode and the results don't indicate a huge difference in the total revenue, There shoud be a proper investigation on the network provider in Osun perhaps a lower pakage for average customers should be consider.
 
-2. **Investigate low customer ratings:** Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent in "Customer Review", Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
+2. **Focus more on Osun**: The Osun state is the dominant mode and the results don't indicate a huge difference in the total revenue, There shoud be a proper investigation on the network provider in Osun perhaps a lower pakage for average customers should be consider.
 
-3. **Product Importance Segmentation**:  Analyze the factors influencing "high importance" product classifications more closely.  If this category corresponds to 5G and 5G Broadband Router products, they may be experiencing a different set of challenges that warrant further investigation.
+3. **Investigate low customer ratings:** Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent in "Customer Review", Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
 
-4. **Discount Optimization**: Understand the relationship between discounts and customer ratings. Test the impact of different discount strategies, potentially optimizing for higher ratings rather than just sales.
-5. **Discount on 5G Router and Subscription**: There should be discount price on this set product in other to drive customers attention on them and increase the company's revenue.
+4. **Product Importance Segmentation**:  Analyze the factors influencing "high importance" product classifications more closely.  If this category corresponds to 5G and 5G Broadband Router products, they may be experiencing a different set of challenges that warrant further investigation.
+
+5. **Discount Optimization**: Understand the relationship between discounts and customer ratings. Test the impact of different discount strategies, potentially optimizing for higher ratings rather than just sales.
+6. **Discount on 5G Router and Subscription**: There should be discount price on this set product in other to drive customers attention on them and increase the company's revenue.
 
 ### Limitations
 1. **Lack of detailed customer feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
