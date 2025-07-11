@@ -1,4 +1,4 @@
-# MTN-Analysis
+<img width="170" height="25" alt="image" src="https://github.com/user-attachments/assets/50556bcf-f73c-4c51-a1b5-4f0ecc6f716b" /># MTN-Analysis
 
 ## Table of Contents
 
@@ -85,12 +85,13 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten fro
 
 2. **Lower package subscription concideration**: State like Osun which is the dominant mode in customers, the results don't indicate a huge difference in the total revenue, There shoud be a lower package for average customers in the company in other to speed up the total revenue.
 
-3. **Investigate low customer ratings:** Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent in "Customer Review", Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
+3. **Product Discount**: There should be discount price on the product like 5G Broadband Router and 4G Router in other to drive customers attention on them and increase the company's revenue
 
 4. **Product Importance Segmentation**:  Analyze the factors influencing "high importance" product classifications more closely.  If this category corresponds to 5G and 5G Broadband Router products, they may be experiencing a different set of challenges that warrant further investigation.
 
 5. **Discount Optimization**: Understand the relationship between discounts and customer ratings. Test the impact of different discount strategies, potentially optimizing for higher ratings rather than just sales.
-6. **Discount on 5G Router and Subscription**: There should be discount price on this set product in other to drive customers attention on them and increase the company's revenue.
+
+6. **Investigate low customer ratings**: Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent in "Customer Review", Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
 
 ### Limitations
 1. **Lack of detailed customer feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
