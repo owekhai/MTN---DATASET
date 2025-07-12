@@ -38,7 +38,7 @@ An international MTN company in Nigeria that specialize in tele communication se
 
 ### Data Sources
 
-The data source is an Excel file (.xlsx) named "MTN_DATASET" which is gotten from techrative technology limited as a capstone project
+The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from techrative technology limited as a capstone project
 
 ### Tools:
  * Excel
