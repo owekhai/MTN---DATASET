@@ -53,7 +53,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
  
 ### Inference Analysis
   The analysis uses several techniques:
-* 1. Clustered Column Chart: Analys the state with more customers.
+* 1. Clustered Column Chart: Analyzes the state with more customers.
 * 2. Doughnut Chart: Analyzes the gender with more revenue.
 * 3. Clustered Column Chart: Examines the customers rating and review.
 * 4. Pie of Pie: Analyzes the customers for all state.
