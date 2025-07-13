@@ -43,7 +43,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
 ### Tools:
  * Excel
  * Power Pivot for replacing the null value
- * Pivot Tabl for proper analylis.
+ * Pivot Tabl for proper analysis.
  * Excel Dashboard for interactive visualizations
 ### Data Cleaning
 * 1. Null/empty value check: 690 rows missing data detected.
