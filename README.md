@@ -99,7 +99,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
 2. **Missing context on "Reasons for Churn"**: More information is needed to identify any special activities on "Reasons for Churn".
 
 ### Conclusion
-- The enitre distribution shows that 5G generate more revenue despite low sales count.
+- The enitre distribution shows that 5G generate more revenue despite low count sales.
 - The sim product is overated against its service providing and revenue.
 - sim network should considers an upgrade, Customer prefer using phone sim for browsing due to its convenience than to convey product that has great mass of weight.
 - for some product to receive high product ratings from customers they need to step up the service provider.
