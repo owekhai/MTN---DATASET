@@ -87,7 +87,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
 
 3. **Product Discount**: There should be discount price on the product like 5G Broadband Router and 4G Router in other to drive customers attention on them and increase the company's revenue
 
-4. **Product Importance Segmentation**:  Analyze the factors influencing "high importance" product classifications more closely.  If this category corresponds to 5G and 5G Broadband Router products, they may be experiencing a different set of challenges that warrant further investigation.
+4. **Product Importance Segmentation**:  Analyze the factors influencing "5G" product classifications more closely. this category corresponds to premium products, they may be experiencing a different set of challenges that warrant more attention perhaps an investigation.
 
 5. **Discount Optimization**: Understand the relationship between discounts and customer ratings. Test the impact of different discount strategies, potentially optimizing for higher ratings rather than just sales.
 
