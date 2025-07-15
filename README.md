@@ -96,7 +96,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
 ### Limitations
 1. **Lack of detailed customer feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
 
-2. **Missing context on "high importance" Reasons for Churn**: More information is needed to identify any special activities on "Reasons for Churn".
+2. **Missing context on "Reasons for Churn"**: More information is needed to identify any special activities on "Reasons for Churn".
 
 ### Conclusion
 - The enitre distribution shows that 5G provives more revenue despite low sales.
