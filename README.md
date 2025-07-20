@@ -1,4 +1,4 @@
-<img width="170" height="25" alt="image" src="https://github.com/user-attachments/assets/50556bcf-f73c-4c51-a1b5-4f0ecc6f716b" /># MTN-Analysis
+# MTN-Analysis
 
 ## Table of Contents
 
