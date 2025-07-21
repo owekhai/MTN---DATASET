@@ -68,7 +68,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
  
 ### Findings
 * The total revenue from January to March is N199,348,200
-* Females are the genger with more patronage with 50% compare to the males with 42.2%.
+* Females are the gender with more patronage with 50% compare to the males with 42.2%.
 * Out of 974 customers 690 where Active, while 284 stop patronizing the company, the top 5 reason for chum is “High Call Tarriffs” (54), “Better Offers from Competitors”(52), “Poor Network”(45), “Costly Data Plans”(40) and “Poor Customer Service”(34).
 * “Ejiro Griffith” from Bauchi with a Broadband MiFi and other top rank customers  left the company  due to poor network
 * “Tega Turner” from rivers is among the top 5 customers with a unit price of N150,000 he is currently active but has a poor data usage
