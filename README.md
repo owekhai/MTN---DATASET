@@ -93,6 +93,10 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
 
 6. **Investigate low customer ratings**: Further analysis is needed to understand why "Sim" has more Poor rate and same time more Excellent in "Customer Review", Explore customer feedback to identify areas for improvement. A deeper dive into the characteristics of customers giving low ratings might provide valuable insights.
 
+7. **Leverage technology**: Implement user-friendly websites and mobile apps for navigation, promotion, and online shopping options. 
+
+8. **Implement loyalty programs**: Reward active subscribers with different package to keep their loyalty and incentivize them to visit the websites more frequently.
+
 ### Limitations
 1. **Lack of detailed customer feedback data**: Customer feedback would significantly enhance understanding of the rating distributions and offer targeted ways to improve customer satisfaction.
 
