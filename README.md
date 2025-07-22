@@ -47,7 +47,7 @@ The data source is an Excel file (.xlsx) named "MTN_DATASET" which i got from te
  * Excel Dashboard for interactive visualizations
 ### Data Cleaning
 * 1. Null/empty value check: 690 rows missing data detected.
-* 2. Removal of the unneccesary null value and replacing the null value in column "Reason for chum" with Active for proper analysis.
+* 2. Removal of the unneccesary null value and replacing the null value in column "Reason for churn" with Active for proper analysis.
 * 3. Duplicate value check: no duplicates found.
 * 4. The "Date of purchase" column is been split into Days, Month, and Year of purchase for proper analysis.
  
